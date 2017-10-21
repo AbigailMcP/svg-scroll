@@ -1,0 +1,12 @@
+body {
+  height: 5000px;
+  background: #6B7A8F;
+}
+
+#squiggle-svg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+}
